@@ -13,6 +13,7 @@ public class Main {
         StringBuilder stringBuilder = new StringBuilder(result);
 
         System.out.println(stringBuilder.reverse() + " " + matcher1.replaceAll("") );
+        System.out.println("xoxoxo");
 
     }
 }
